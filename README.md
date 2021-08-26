@@ -24,7 +24,7 @@ The questionnaire was administered to the students of various levels i.e. from 2
 (1250) questionnaires were administered and two hundred and twenty four (224) responded.
 [Data 1 for developing models](https://www.google.com)
 [Data 2 for developing models](https://www.google.com)
-[[Data 1 for developing models](https://www.google.com)
+[Data for fresh prediction](https://www.google.com)
 
 Technical Aspects
 -----------------
