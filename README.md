@@ -40,7 +40,7 @@ The following are the steps to modelling Individual Uplift or persuasion which w
 In this research, we investigated two classification algorithms ( KNN and Random Forest)  and picked the best out of the two.
 
 Codes for the modeling can be gotten 
-[here](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/TrainingDS3NewData.csv)
+[here](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/uplift2.R)
 
 
 Credits
