@@ -22,8 +22,11 @@ Data Description
 Data was collected within the period of June and July 2020. 
 The questionnaire was administered to the students of various levels i.e. from 200 level  to  500 level. Lastly, a total of one thousand two hundred and fifty
 (1250) questionnaires were administered and two hundred and twenty four (224) responded.
+
 [Data 1 for developing models](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/TrainingDS3.csv)
+
 [Data 2 for developing models](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/TrainingDS3knn.csv)
+
 [Data for fresh prediction](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/TrainingDS3NewData.csv)
 
 Technical Aspects
