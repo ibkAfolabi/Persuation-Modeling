@@ -14,7 +14,7 @@ We used both KNN and Random Forest algorithm for the uplift modelling using data
 
 Motivation
 ----------
-Ithe motivation and goal is to discover the uplift model that performs better out of Random Forest and KNN and also provide recommendations on how to reducing the Economic Investment in marketing educational workshops. 
+The motivation and goal is to discover the uplift model that performs better out of Random Forest and KNN and also provide recommendations on how to reducing the Economic Investment in marketing educational workshops. 
 
 
 Data Description
