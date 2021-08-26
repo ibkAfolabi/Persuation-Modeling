@@ -1,0 +1,8 @@
+Sex,LikeMaths,LikeMarketing,LikeBusiness,LikeReading,LikeProgramming,ITParents,LikeToTakeCourse,AmountToPay,Message,Moved_AD
+Male,Maybe,Maybe,Maybe,Yes,Maybe,Maybe,No,L20000,1,0
+Female,Maybe,Yes,Maybe,Yes,No,Yes,No,L30000,0,0
+Male,Maybe,Yes,Yes,Maybe,No,No,No,L40000,1,0
+Male,Yes,No,Yes,Yes,No,No,Yes,L10000,1,1
+Male,Maybe,Yes,Yes,Yes,No,No,Yes,L10000,0,1
+Female,Yes,Yes,No,Yes,Yes,No,Maybe,L10000,1,1
+Female,Maybe,No,Yes,No,No,Yes,No,L10000,1,1
