@@ -39,6 +39,9 @@ The following are the steps to modelling Individual Uplift or persuasion which w
 8. Develop a predictive model with Moved_AD as the outcome variable and various predictor variable including the treatment message. The predictive model will predict how much positive impact the message will have on the respondents and with this, we can direct our message to those with the highest persuasion potential (propensity). 
 In this research, we investigated two classification algorithms ( KNN and Random Forest)  and picked the best out of the two.
 
+Codes for the modeling can be gotten 
+[here](https://github.com/ibkAfolabi/Persuation-Modeling/blob/main/TrainingDS3NewData.csv)
+
 
 Credits
 -------
